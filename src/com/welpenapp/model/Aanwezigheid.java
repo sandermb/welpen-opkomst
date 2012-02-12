@@ -10,6 +10,7 @@ import android.provider.BaseColumns;
  * <p>Weak table, holding {@link Person} and {@link Opkomst} together.</p>
  * 
  * @author Jasper Roel
+ * @author Sander Roebers
  * 
  */
 public class Aanwezigheid extends DbHelper<Aanwezigheid> implements DbObject {
